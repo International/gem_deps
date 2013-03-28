@@ -1,6 +1,6 @@
 # GemDeps
 
-Simple way to check the versions of gems on a specific environment
+Simple way to check the versions of gems on a specific environment. Inspired by http://stackoverflow.com/questions/15498611/how-can-i-view-all-the-gems-for-a-specific-gem-group
 
 ## Installation
 
