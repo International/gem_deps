@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = GemDeps::VERSION
   gem.authors       = ["George Opritescu"]
   gem.email         = ["ssscripting@gmail.com"]
-  gem.description   = %q{TODO: Simple way to check the versions of gems on a specific environment}
-  gem.summary       = %q{TODO: Simple way to check the versions of gems on a specific environment}
+  gem.description   = %q{Simple way to check the versions of gems on a specific environment}
+  gem.summary       = %q{Simple way to check the versions of gems on a specific environment}
   gem.homepage      = "https://github.com/International/gem_deps"
 
   gem.add_dependency "rake"
