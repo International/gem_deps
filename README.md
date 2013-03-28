@@ -1,6 +1,6 @@
 # GemDeps
 
-TODO: Write a gem description
+Simple way to check the versions of gems on a specific environment
 
 ## Installation
 
@@ -18,7 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run the following task to view the gems for the current environment:
+
+    $ rake gem_deps:list_gems
+    
+Or run it like this to view for a specific environment:
+
+    $ rake gem_deps:list_gems FOR_ENV=test
 
 ## Contributing
 
